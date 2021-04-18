@@ -13,3 +13,9 @@ This is an introductory workshop to Data Analysis with Python. The following top
 4. Use the `.html` files as reference to fill in the corresponding `.BEG.ipynb` files. In the end, the notebooks should look like the `.END.ipynb` ones. If you prefer, you can make a copy of the `.BEG` file, so that you can always go back to it if you want to start from scratch.
 
 The files in the `Data/` directory contain all the necessary data to be used here.
+
+Alternatively, if you're familiar with `git` you can just clone this repository.
+
+---
+:pencil2: Comments and suggestions for improvement would be very welcome. Please contact me at vsojo at amnh dot org
+:copyright: This code is released under a [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/). Briefly, this means you can use everything here freely in your studies and teaching. However, you cannot sell any of the contents here, and if you redistribute, you must always credit the original source. You can of course sell your own code that you create using what you learn here, and you can get paid for teaching using these materials too, but you cannot be paid, for example, for selling the documents here as a guidebook for a course.
