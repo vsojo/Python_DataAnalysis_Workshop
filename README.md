@@ -18,4 +18,5 @@ Alternatively, if you're familiar with `git` you can just clone this repository.
 
 ---
 :pencil2: Comments and suggestions for improvement would be very welcome. Please contact me at vsojo at amnh dot org
+
 :copyright: This code is released under a [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/). Briefly, this means you can use everything here freely in your studies and teaching. However, you cannot sell any of the contents here, and if you redistribute, you must always credit the original source. You can of course sell your own code that you create using what you learn here, and you can get paid for teaching using these materials too, but you cannot be paid, for example, for selling the documents here as a guidebook for a course.
