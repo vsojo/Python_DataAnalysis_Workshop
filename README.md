@@ -5,6 +5,7 @@ This is an introductory workshop to Data Analysis with Python. The following top
 3. **Py303 | Pandas:** Python's dataframe tool to process structured tabular data (data organised into columns that correspond to features and rows that correspond to cases).
 4. **Py304 | R-to-Py (rpy2):** Jupyter's extensions to interface R with Python, exploiting the advantages of both languages within the same code.
 5. **Py305 | Scikit-learn:** An extremely brief introduction to Python's main machine-learning package.
+6. **Py306 | Maps and geolocation:** An introduction to plotting free maps under Matplotlib and Plotly, using both known coordinates and searches by name with geocoders.
 
 ## Getting the files
 1. Click on the big "Code" button on the top right. This will create a `.zip` file; download it to your desired location.
